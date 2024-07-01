@@ -14,7 +14,9 @@ In this project, I learned how to use Python's BeautifulSoup library along with 
 - __Handling Data:__ Storing data in lists and performing operations such as finding the article with the most upvotes.
 
 Sample Website to scrape
+
 ![](https://github.com/AlvinChin1608/day45_100/blob/main/bs4-start/Website_Example.png)
 
 Here the sample website where the title was being extracted
+
 ![](https://github.com/AlvinChin1608/day45_100/blob/main/bs4-start/Website_Scraped.png)
